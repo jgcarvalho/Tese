@@ -419,6 +419,22 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
+                <BinderItem ID="21" Created="2015-06-23 22:52:46 +0000" Modified="2015-06-23 22:52:46 +0000" Type="PDF">
+                    <Title>paper_nih</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>No</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="2" Created="2006-11-04 16:27:29 +0000" Modified="2006-11-04 16:27:29 +0000" Type="TrashFolder">
